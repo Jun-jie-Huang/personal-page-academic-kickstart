@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm a senior undergraduate student in Beihang University. 
+Hi! I'm a senior student at Beihang University. 
