@@ -26,7 +26,6 @@ interests:
 
 education:
   courses:
- [^_^]:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
