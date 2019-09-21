@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm a senior student at Beihang University. 
+Hi! I'm a senior student at Beihang University. My research mainly lies in the field of Natural Language Processing and Machine Learning. Currently, I'm working with Prof. Zhiyuan Liu at Tsinghua University. I also work closely with Prof. Xiaodan Zhu at Queen's University and Mo Yu at IBM.
