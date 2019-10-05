@@ -36,7 +36,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "hjj1997@buaa.edu.cn".
+  link: "hjj1997@buaa.edu.cn"
+#  link: '#contact'  # For a direct email link, use "hjj1997@buaa.edu.cn".
 # - icon: twitter
 #  icon_pack: fab
 #  link: 
@@ -51,7 +52,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
-#   link: files/Junjie-cv.pdf
+#   link: "files/Junjie-cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "hjj1997@buaa.edu.cn"
