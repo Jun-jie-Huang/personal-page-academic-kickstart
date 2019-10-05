@@ -8,4 +8,5 @@ abstract: "Semantic compositionality (SC) refers to the phenomenon that the mean
 featured: true
 publication: "*Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics*"
 doi: "10.18653/v1/P19-1571"
+url_pdf = "https://www.aclweb.org/anthology/P19-1571.pdf"
 ---
