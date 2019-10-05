@@ -1,11 +1,10 @@
 ---
-
 title: "Modeling Semantic Compositionality with Sememe Knowledge"
 date: 2019-07-01
 publishDate: 2019-10-05T09:07:23.523211Z
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors: ["Fanchao Qi", "__**Junjie Huang**__", "Chenghao Yang", "Zhiyuan Liu", "Xiao Chen", "Qun Liu", "Maosong Sun"]
+authors: ["Fanchao Qi", "Junjie Huang", "Chenghao Yang", "Zhiyuan Liu", "Xiao Chen", "Qun Liu", "Maosong Sun"]
 
 
 # Publication type.
@@ -25,29 +24,22 @@ abstract: "Semantic compositionality (SC) refers to the phenomenon that the mean
 publication: "*Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics*"
 publication_short = "*Proceedings of ACL 2019*"
 
-# Projects (optional).
-# Associate this publication with one or more of your projects.
-# Simply enter your project's folder or file name without extension.
-# E.g. projects = ["deep-learning"] references
-# content/project/deep-learning/index.md.
-# Otherwise, set projects = [].
-projects = []
-
 # Slides (optional).
 # Associate this publication with Markdown slides.
 # Simply enter your slide deck's filename without extension.
 # E.g. slides = "example-slides" references
 # content/slides/example-slides.md.
 # Otherwise, set slides = "".
-slides = ""
+# slides = ""
 
 # Tags (optional).
 # Set tags = [] for no tags, or use the form tags = ["A Tag", "Another Tag"] for one or more tags.
-tags = []
+# tags = []
+
 featured: true
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/8274080"
-url_preprint = "https://www.researchgate.net/profile/Jesus_Contreras_Ocana/publication/322998795_Energy_storage_Market_power_and_social_welfare/links/5a81f50daca272d65019a86b/Energy-storage-Market-power-and-social-welfare.pdf"
+# url_pdf = "https://ieeexplore.ieee.org/abstract/document/8274080"
+# url_preprint = "https://www.researchgate.net/profile/Jesus_Contreras_Ocana/publication/322998795_Energy_storage_Market_power_and_social_welfare/links/5a81f50daca272d65019a86b/Energy-storage-Market-power-and-social-welfare.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
@@ -63,7 +55,7 @@ url_preprint = "https://www.researchgate.net/profile/Jesus_Contreras_Ocana/publi
 doi: "10.18653/v1/P19-1571"
 
 # Does this page contain LaTeX math? (true/false)
-math = false
+# math = false
 
 # Featured image
 # To use, add an image named featured.jpg/png to your page's folder.
