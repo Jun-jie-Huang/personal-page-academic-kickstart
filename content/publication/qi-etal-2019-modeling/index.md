@@ -1,7 +1,4 @@
-
-
-
-+++
+---
 
 title: "Modeling Semantic Compositionality with Sememe Knowledge"
 date: 2019-07-01
@@ -78,4 +75,4 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   #focal_point = "
 
-+++
+---
