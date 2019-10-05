@@ -45,12 +45,13 @@ social:
   link:
 - icon: github
   icon_pack: fab
-  link: 
+  link: "https://github.com/Jun-jie-Huang"
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
- - icon: cv
-   icon_pack: ai
-   link: files/Junjie-cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/Junjie-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "hjj1997@buaa.edu.cn"
