@@ -8,6 +8,6 @@ abstract: "Word similarity computation is a widely recognized task in the field 
 featured: true
 publication: "*ArXiv*"
 url_pdf: "https://arxiv.org/pdf/1906.00247.pdf"
-url_dataset:"https://github.com/thunlp/COS960"
+url_dataset: "https://github.com/thunlp/COS960"
 ---
 
