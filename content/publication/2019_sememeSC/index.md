@@ -50,8 +50,8 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/8274080"
-url_preprint = "https://www.researchgate.net/profile/Jesus_Contreras_Ocana/publication/322998795_Energy_storage_Market_power_and_social_welfare/links/5a81f50daca272d65019a86b/Energy-storage-Market-power-and-social-welfare.pdf"
+url_pdf = "https://www.aclweb.org/anthology/P19-1571.pdf"
+url_preprint = "https://arxiv.org/pdf/1907.04744.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
