@@ -10,4 +10,5 @@ publication: "*Proceedings of the 57th Annual Meeting of the Association for Com
 doi: "10.18653/v1/P19-1571"
 url_pdf: "https://www.aclweb.org/anthology/P19-1571.pdf"
 url_code: "https://github.com/thunlp/Sememe-SC"
+slides: "slide-acl19-sememeSC.pptx"
 ---
